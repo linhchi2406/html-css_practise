@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    width: 100%;
+    background-color: black;
+    background-image: url("bg.png");
+    }
+   #header {
+       width: 100%;
+       height: auto;
+   }
+   
+  
+ #header img.cangiua {
+    display: block;
+    width: 600px;
+    
+     margin-left: auto;
+      margin-right: auto;}
+#header #slogan p{
+    font-size: 70px;
+    color: #e7b847;
+}
+#slogan{
+    margin-top: 0px;
+    display: block;
+    width: 1600px;
+    height: 200px;
+    margin-left: auto;
+      margin-right: auto;
+}
+#content {
+    height: 800px;
+    width: auto;
+}
+#content #DK{
+    display: block;
+     margin-left: auto;
+      margin-right: auto;
+      height: 660px;
+      width: 1600px;
+
+}
+#content #DK #Dang_ky {
+    
+    float: left;
+    width: 760px;
+    
+}
+#content #DK #Dang_nhap{
+    
+    float: right;
+    width: 750px;
+    
+}
+
+
+
+input {
+    padding: 8px 16px;
+    background-color: black;
+    width: 600px;
+    height: 100px;
+    margin: 15px;
+    border: 1px solid #f7f7f7;
+}
+ h3 {
+    font-size: 65px;
+    font-weight: 750;
+   color: #f7dca9;
+   margin-left: 90px;
+
+}
+#content #end {
+   display: block;
+     margin-left: auto;
+      margin-right: auto;
+      height: 100px;
+      width: 1600px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    list-style: none;
+}
+li{
+    float: left;
+    
+}
+
+ .button1 {
+    color: black;
+    background-color: #f7dca9;
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 30px;
+    font-weight: 600;
+   
+
+ }
+ .button2{
+    color: white;
+    background-color: #475883;
+    font-size: 50px;
+    font-weight: 600;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 30px;
+    margin-right: 320px;
+    margin-left: 250px;
+
+}
+.button3 {
+    color: black;
+    background-color: #f7dca9;
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 30px;
+    font-weight: 600;
+}
+
+
+   #footer{
+    width: 100%;
+    height: 100px;
+   }
+   #footer img{
+    display: block;
+    width: 800px;
+     margin-left: auto;
+      margin-right: auto;
+   }
